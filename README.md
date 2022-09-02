@@ -1,4 +1,4 @@
-# Maya-Animation-Project-Knights-Replica
+# Maya-Animation-Knights-Replica
 
 # Project:
 - IAT 343 Final Project
