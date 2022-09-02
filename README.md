@@ -1,7 +1,5 @@
-# Maya-Animation-Knights-Replica
-
 # Project:
-- IAT 343 Final Project
+- IAT 343 Final Animation
 - Created using Maya
 - Rendered using Arnold
 # Video:
