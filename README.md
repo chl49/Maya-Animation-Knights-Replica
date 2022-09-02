@@ -1,6 +1,6 @@
 # Maya-Animation-Project
 
-#Project:
+# Project:
 - IAT 343 Animation Final Project
 - Created using Maya
 - Rendered using Arnold
